@@ -28,9 +28,9 @@
 
  - 🎯 Aiming to excel as a data-driven **Problem Solver**
  
- - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/Pragya-011" rel="nofollow" >GitHub</a></strong>.
+ - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/mayurpaunikar7" rel="nofollow" >GitHub</a></strong>.
  
- - 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/pragya011" rel="nofollow" >LinkedIn</a></strong>.
+ - 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/mayur-paunikar-60b9b41ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0SlxxFynQZihvAu4W8C2pw%3D%3D" rel="nofollow" >LinkedIn</a></strong>.
 
 <br>
 <br>
