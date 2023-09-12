@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+![MasterHead](https://images.yourstory.com/cs/2/4e0288202dda11e9b78a8b7eb69eb573/spacetech-1583247174298.png?fm=png&auto=format)
 
 <h1 align = "center">
   Hi
