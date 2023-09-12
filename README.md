@@ -1,4 +1,4 @@
-![MasterHead](https://images.yourstory.com/cs/2/4e0288202dda11e9b78a8b7eb69eb573/spacetech-1583247174298.png?fm=png&auto=format)
+![MasterHead](https://wallpaperaccess.com/full/2498648.jpg)
 
 <h1 align = "center">
   Hi
