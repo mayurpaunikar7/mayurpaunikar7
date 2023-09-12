@@ -60,9 +60,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Github Stats :  
 </h2>
 
-<a href="https://github.com/Pragya-011">
-<img src="https://github-readme-stats.vercel.app/api?username=Pragya-011&&show_icons=true&theme=radical&line_height=27&v=5" alt="Pragya's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya-011&theme=radical&hide=glsl,python" />
+<a href="https://github.com/mayurpaunikar7">
+<img src="https://github-readme-stats.vercel.app/api?username=mayurpaunikar7&&show_icons=true&theme=radical&line_height=27&v=5" alt="Mayur's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpaunikar7&theme=radical&hide=glsl,python" />
 
 <br>
 <br>
@@ -77,7 +77,7 @@
 <br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Pragya011/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/mayurpaunikar7/count.svg" alt="Visitor Count">
 </p>
 
 <h2 align="center">
