@@ -9,17 +9,16 @@
 </h1>
 
 <h3  align = "center">
- <b>A passionate and Insightful Data Analyst</b>
+ <b>A problem solver who thrives on extracting knowledge from numbers</b>
 </h3>
 
  <br>
  <br>
  <br>
 
-<img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
- <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" width="50"> About Me :
-</h2>
+<img align="right" alt="Coding" width="550" src="https://motionarray.imgix.net/1666255-3VvVbNw7xQ-high_0004.jpg?w=660&q=60&fit=max&auto=format">
+
+**About Me**
 
  - 🌐 Aspiring to make an impact as a **Data Analyst**
    
@@ -82,5 +81,5 @@
 </p>
 
 <h2 align="center">
-  Show some ❤️ by starring some of the repositories!
+  Show interest by starring some of the repositories!
 </h2>
