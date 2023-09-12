@@ -1,4 +1,7 @@
-![MasterHead](https://wallpaperaccess.com/full/2498648.jpg)
+<div align="center">
+    <img src="https://t3.ftcdn.net/jpg/05/74/78/38/360_F_574783815_WRUArRe13oFAqnfc13XcpiLRcBC4vhCG.jpg" alt="MasterHead">
+</div>
+
 
 <h1 align = "center">
   Hi
