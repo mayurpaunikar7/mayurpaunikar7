@@ -16,7 +16,7 @@
  <br>
  <br>
 
-<img align="right" alt="Coding" width="550" src="https://motionarray.imgix.net/1666255-3VvVbNw7xQ-high_0004.jpg?w=660&q=60&fit=max&auto=format">
+<img align="right" alt="Coding" width="500" src="https://motionarray.imgix.net/1666255-3VvVbNw7xQ-high_0004.jpg?w=660&q=60&fit=max&auto=format">
 
 **About Me**
 
