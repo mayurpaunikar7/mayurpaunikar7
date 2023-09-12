@@ -70,9 +70,9 @@
 
 <h2 dir="auto"> </a> <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" > </a> <strong>Reach out to me:</strong> </h2>
 <p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/pragya011/" > <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" > </a>
-<a href="mailto:pragyas2016@gmail.com" > <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" > </a>
-<a href="https://www.hackerrank.com/pragyas2016" > <img src="https://user-images.githubusercontent.com/137817362/266239493-4e65699f-6e11-488f-9af9-f50b54fa5a3f.png"  height="50" ></a>
+<a href="https://www.linkedin.com/in/mayur-paunikar-60b9b41ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0SlxxFynQZihvAu4W8C2pw%3D%3D" > <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" > </a>
+<a href="mailto:mayurpaunikar7@gmail.com" > <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" > </a>
+<a href="https://www.hackerrank.com/mayurpaunikar7" > <img src="https://user-images.githubusercontent.com/137817362/266239493-4e65699f-6e11-488f-9af9-f50b54fa5a3f.png"  height="50" ></a>
   
 <br>
 
